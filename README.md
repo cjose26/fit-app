@@ -1,4 +1,4 @@
-# Team Profile Generator
+# Fit App
 
 A fitness tracker application where the user can create and track daily workouts.
 
